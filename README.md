@@ -10,7 +10,7 @@ modify only two things
  - Line 30: `model="multimer"`
  choose between multimer or monomer
  
- 3. "Your.fasta" file
+ 3. "Your.fasta" file  
  For monomer, prepare a fasta file with your protein sequence
  ```
  >sequence_name
