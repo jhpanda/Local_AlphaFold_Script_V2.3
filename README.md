@@ -1,6 +1,4 @@
 # Local_AlphaFold_Script_V2.3
-
-# Scripts
  1. Copy `pred_gpu112.sh` to your work folder  
  
  2. Input fasta file, `modelname.fasta`  
