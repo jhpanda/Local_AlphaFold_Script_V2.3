@@ -11,12 +11,12 @@ modify only two things
  choose between multimer or monomer
  
  3. "Your.fasta" file  
- i. For monomer, prepare a fasta file with your protein sequence
+ *For monomer, prepare a fasta file with your protein sequence
  ```
  >sequence_name
  MRRRRAAAAGGGG
  ```
- ii. For multimer, prepare a fasta file with multiple chains
+ *For multimer, prepare a fasta file with multiple chains
  ```
  >chain A
  MRRRRCHAINA
